@@ -1,2 +1,2 @@
-# Github-Demo
+# github-Demo
 GetHub Desktop Demo
