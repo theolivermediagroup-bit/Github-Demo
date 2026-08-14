@@ -2,6 +2,4 @@
 
 GetHub Desktop Demo
 
-Test out GidHub Desktop
-
-This is just a test
+Test out GitHub Desktop
